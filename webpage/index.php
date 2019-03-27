@@ -32,7 +32,7 @@ include('connection.php');
 				</ul>
 			</form>
 			<div class="twocols_col">
-				<h2>About Us</h2>
+				<h2>About us!</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur libero nostrum consequatur dolor. Nesciunt eos dolorem enim accusantium libero impedit ipsa perspiciatis vel dolore reiciendis ratione quam, non sequi sit! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio nobis vero ullam quae. Repellendus dolores quis tenetur enim distinctio, optio vero, cupiditate commodi eligendi similique laboriosam maxime corporis quasi labore!</p>
 			</div>
 		</div>
